@@ -9,3 +9,5 @@ Esta es la segunda prueva de carga desde la web
 
 Esta es una modificacion echa desde el bash
 
+Parace ser que el comando fetch no carga el archivo en el local
+pero el comando pull si lo carga cual es la diferencia??
